@@ -5,7 +5,7 @@
 -  Also, Here's my LinkedIn profile : <a class="badge-base__link LI-simple-link"  
   href="https://bd.linkedin.com/in/md-tazbid-hasan?trk=profile-badge">`MD. TAZBID HASAN`</a>
 -  My Portofolio: <a class="badge-base__link LI-simple-link"  
-  href="https://git-tazbid.github.com">`git-tazbid.github.com`</a>
+  href="https://git-tazbid.github.io">`git-tazbid.github.com`</a>
 
 <!---
     

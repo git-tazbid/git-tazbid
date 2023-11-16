@@ -1,6 +1,6 @@
 - 👋 Hi, I'm `Tazbid`, a highly motivated and enthusiastic individual with a passion for technology and programming.
 - 🎓 I'm currently doing my undergrad in `Computer Science and Engineering` at `BRAC University`.
-- 📫 How to reach me ... well, there are multiple ways:
+- 📫 How to reach me ... well, there are multiple ways to connect with me:
   
 <br>
 
